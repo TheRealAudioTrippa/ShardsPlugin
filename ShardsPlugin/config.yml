@@ -1,0 +1,13 @@
+afk:
+  enabled: true
+  idle-seconds: 300
+  check-interval-seconds: 60
+  reward-per-interval: 5
+
+rewards:
+  blocks:
+    STONE: 1
+    COBBLESTONE: 1
+
+kills:
+  player: 5
